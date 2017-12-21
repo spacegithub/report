@@ -1,1 +1,7 @@
 /com/
+/config/
+/database.properties
+/log4j.properties
+/spring.xml
+/sqlmap-config.xml
+/struts.xml

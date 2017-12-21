@@ -2,6 +2,8 @@ package com.ruisi.vdop.web.webreport;
 
 import java.util.List;
 
+import org.apache.commons.lang3.StringUtils;
+
 import com.ruisi.ext.engine.dao.DaoHelper;
 import com.ruisi.vdop.util.VDOPUtils;
 import com.ruisi.vdop.util.VdopConstant;
@@ -13,6 +15,7 @@ public class MyReportAction {
 	private String userId;
 	
 	private String reportId;
+	private String pageId;
 	
 	private String reportName; //改名后的名称
 	private String cataId; //目录ID
@@ -29,6 +32,9 @@ public class MyReportAction {
 		this.userId = VDOPUtils.getLoginedUser().getUserId();
 		//HttpServletResponse resp = VDOPUtils.getResponse();
 		//resp.setContentType("text/xml; charset=UTF-8");
+		if(StringUtils.isEmpty(this.pageId)) {
+			this.pageId = this.reportId;
+		}
 		daoHelper.getSqlMapClientTemplate().delete("web.report.delReport", this);
 		//String ctx = JSONArray.fromObject(ls).toString();
 		//resp.getWriter().println(ctx);
@@ -87,5 +93,12 @@ public class MyReportAction {
 	public void setKeyword(String keyword) {
 		this.keyword = keyword;
 	}
-	
+
+	public String getPageId() {
+		return pageId;
+	}
+
+	public void setPageId(String pageId) {
+		this.pageId = pageId;
+	}
 }
