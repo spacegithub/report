@@ -12,8 +12,8 @@ if(stit != null && stit.length() > 0){
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <title><s:if test="pageName != null && pageName !=''">${pageName} - </s:if>睿思报表 - WEB报表工具</title>
-   <meta name="keywords" content="北京睿思科技有限公司 商业智能 web 自助式 报表" />
+   <title><s:if test="pageName != null && pageName !=''">${pageName} - </s:if>报表 - WEB报表工具</title>
+   <meta name="keywords" content="791440142 商业智能 web 自助式 报表" />
 	<meta name="description" content="在线WEB自助式报表" />
 <link rel="shortcut icon" type="image/x-icon" href="../resource/img/rs_favicon.ico">
    <script type="text/javascript" src="../ext-res/js/jquery.min.js"></script>

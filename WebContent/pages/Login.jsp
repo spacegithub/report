@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>睿思BI商业智能产品演示系统 - 用户登录</title>
+<title>顺德科技股票服务系统 - 用户登录</title>
 <link rel="shortcut icon" type="image/x-icon" href="resource/img/rs_favicon.ico">
 
 <link rel="stylesheet" href="resource/css/ht.css" type="text/css">
@@ -105,8 +105,8 @@ function chkpw(ff){
   
   
   <div align="center" style="color:#666; font-size:14px; margin:20px;">
-管理员登陆账号/口令： admin/123456 <br/>
-<br/>   © <a href="http://www.rosetech.cn" target="_blank" style="color:#666; text-decoration:none">北京睿思科技有限公司</a> 2013 <a href="kefu.html" target="_blank" style="color:#666; text-decoration:underline">联系我们</a></div>
+ <br/>
+<br/>   © 2013 <a href="http://wpa.qq.com/msgrd?v=3&uin=791440142&site=qq&menu=yes" target="_blank" style="color:#666; text-decoration:none">联系我们</a></div>
 </div>
 
 </body>

@@ -5,10 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>睿思报表商业智能产品演示系统</title>
+<title>顺德科技股票服务系统</title>
 <link rel="shortcut icon" type="image/x-icon" href="../resource/img/rs_favicon.ico">
-<meta name="keywords" content="经营分析系统,餐饮连锁企业商业智能分析系统(BI),北京睿思科技有限公司">
-<meta name="description" content="餐饮连锁企业经营分析系统以数据仓库技术为依托，采用ETL抽取企业在经营过程中产生的业务数据并集中于总部数据中心，利用数据挖掘、多维分析、智能报表等技术构建商业智能平台，为管理者提供及时、准确、科学的决策依据，降低管理成本，助力构建智慧型企业。">
+<meta name="keywords" content="经传,股票,791440142">
+<meta name="description" content="数据抓取，大数据分析">
 <link rel="stylesheet" type="text/css" href="../resource/css/main3.css">
 <link rel="stylesheet" type="text/css" href="../resource/jquery-easyui-1.3.4/themes/default/easyui.css">
 <link rel="stylesheet" type="text/css" href="../resource/jquery-easyui-1.3.4/themes/icon.css">
@@ -168,7 +168,7 @@
                 当前在线用户数：<span id="usercnt">X</span>人
             </div>
             <div style="float:right; margin: 3px 20px 0px 0px;">
-                <a href="http://www.ruisitech.com" target="_blank" style="text-decoration:underline">北京睿思科技有限公司(www.ruisitech.com)</a> 版权所有
+                <a href="http://www.ruisitech.com" target="_blank" style="text-decoration:underline">791440142(www.ruisitech.com)</a> 版权所有
             </div>
         </div>
     </div>

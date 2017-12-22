@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <title>报表JSON测试 - 睿思BI - WEB报表工具</title>
+   <title>报表JSON测试 - WEB报表工具</title>
 <link rel="shortcut icon" type="image/x-icon" href="../resource/img/rs_favicon.ico">
     <script type="text/javascript" src="../ext-res/js/jquery.min.js"></script>
 	<script language="javascript" src="../ext-res/js/ext-base.js"></script>

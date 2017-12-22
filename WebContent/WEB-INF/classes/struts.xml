@@ -8,7 +8,6 @@
 	<constant name="struts.codebehind.pathPrefix" value="/pages/" />
 	<constant name="struts.configuration.classpath.forceLowerCase" value="false" />
 	<constant name="struts.configuration.classpath.defaultParentPackage" value="base-default" />
-	
 	<!-- 不用登录的拦截器 -->
 	<package name="guest-default-2" namespace="/" extends="struts-default">
 		<interceptors>
@@ -64,5 +63,4 @@
 			<result name="noLogin2">/pages/control/NoLogin_3g.jsp</result>
 		</global-results>
 	</package>
-	
 </struts>

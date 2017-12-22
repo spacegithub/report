@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>睿思BI商业智能分析系统</title>
+<title>顺德科技股票服务系统</title>
 <link rel="shortcut icon" type="image/x-icon" href="../resource/img/rs_favicon.ico">
 <link rel="stylesheet" href="../resource/css/ht.css" type="text/css">
 <link rel="stylesheet" type="text/css" href="../resource/jquery-easyui-1.3.4/themes/gray/easyui.css">
@@ -255,7 +255,7 @@
 
 <div id="xinh-3" class="xinh-3">
 <a href="http://www.ruisitech.com" target="_blank">
-北京睿思科技有限公司
+791440142
 </a>
 © 2014 
 <a href="http://www.ruisitech.com" target="_blank">www.ruisitech.com</a> <a href="../kefu.html" target="_blank" style="color:#666; text-decoration:underline">联系我们</a><br>
