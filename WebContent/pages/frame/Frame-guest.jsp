@@ -255,7 +255,7 @@
 
 <div id="xinh-3" class="xinh-3">
 <a href="http://www.ruisitech.com" target="_blank">
-791440142
+顺德科技
 </a>
 © 2014 
 <a href="http://www.ruisitech.com" target="_blank">www.ruisitech.com</a> <a href="../kefu.html" target="_blank" style="color:#666; text-decoration:underline">联系我们</a><br>

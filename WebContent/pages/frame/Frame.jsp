@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>页面跳转中，请稍后...</title>
-<meta name="keywords" content="经传,股票,791440142">
+<meta name="keywords" content="经传,股票,顺德科技">
 <meta name="description" content="数据抓取，大数据分析">
 
 <link rel="stylesheet" href="../resource/css/ht.css" type="text/css">

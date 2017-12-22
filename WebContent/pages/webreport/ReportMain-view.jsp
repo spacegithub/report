@@ -8,7 +8,7 @@
 	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <title>报表预览 - WEB报表工具</title>
 <link rel="shortcut icon" type="image/x-icon" href="../resource/img/rs_favicon.ico">
-   <meta name="keywords" content="791440142 商业智能 web 自助式 报表" />
+   <meta name="keywords" content="顺德科技 商业智能 web 自助式 报表" />
 <meta name="description" content="在线WEB自助式报表" />
 
     <script type="text/javascript" src="../ext-res/js/jquery.min.js"></script>

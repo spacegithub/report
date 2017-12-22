@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>顺德科技股票服务系统</title>
-<meta name="keywords" content="经传,股票,791440142">
+<meta name="keywords" content="经传,股票,顺德科技">
 <meta name="description" content="数据抓取，大数据分析">
 
 <link rel="stylesheet" href="../resource/css/ht.css" type="text/css">
@@ -269,7 +269,7 @@ if(rootlink != null && rootlink == 1){
 
 <div id="xinh-3" class="xinh-3">
 <a href="http://www.rosetech.cn" target="_blank">
-791440142
+顺德科技
 </a>
 © 2013 
 <a href="http://www.rosetech.cn" target="_blank">www.rosetech.cn</a> <a href="../kefu.html" target="_blank" style="color:#666; text-decoration:underline">联系我们</a><br>

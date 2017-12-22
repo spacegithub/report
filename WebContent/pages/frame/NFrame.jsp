@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>顺德科技股票服务系统</title>
 <link rel="shortcut icon" type="image/x-icon" href="../resource/img/rs_favicon.ico">
-<meta name="keywords" content="经传,股票,791440142">
+<meta name="keywords" content="经传,股票,顺德科技">
 <meta name="description" content="数据抓取，大数据分析">
 <link rel="stylesheet" type="text/css" href="../resource/css/main.css">
 <link rel="stylesheet" type="text/css" href="../resource/jquery-easyui-1.3.4/themes/default/easyui.css">
@@ -168,7 +168,7 @@
                 当前在线用户数：<span id="usercnt">X</span>人
             </div>
             <div style="float:right; margin: 3px 20px 0px 0px;">
-                <a href="http://www.ruisitech.com" target="_blank" style="text-decoration:underline">791440142(www.ruisitech.com)</a> 版权所有
+                <a href="http://www.ruisitech.com" target="_blank" style="text-decoration:underline">顺德科技</a> 版权所有
             </div>
         </div>
     </div>

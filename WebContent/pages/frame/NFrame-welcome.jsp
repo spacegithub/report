@@ -52,13 +52,13 @@
     <td align="left">
     <div class="tis">
     您好！ 欢迎您！ <br/>
-    &nbsp;&nbsp;&nbsp; 您当前访问的系统是由<a target="_blank" href="http://www.ruisitech.com"><font color="red">791440142</font></a>自主研发的<a target="_blank" href="http://www.ruisitech.com/report.html"><font color="red">“睿思报表”</font></a>系统。 系统集报表制作、报表发布、报表导出、权限管理为一体，纯B/S建构，满足您的企业对报表的需求。<br/><br/>
+    &nbsp;&nbsp;&nbsp; 您当前访问的系统是由<a target="_blank" href="http://www.ruisitech.com"><font color="red">顺德科技</font></a>二次研发的<a target="_blank" href="http://www.ruisitech.com/report.html"><font color="red">“报表”</font></a>系统。 系统集报表制作、报表发布、报表导出、权限管理为一体，纯B/S建构，满足您的企业对报表的需求。<br/><br/>
         
          &nbsp;&nbsp;&nbsp; 相关文档：
          <ul>
          
          <li>
-         <a href="http://www.ruisitech.com/doc/report.pdf" target="_blank" style="text-decoration:underline"> 睿思报表使用手册 </a> <img src="../resource/img/hot.gif">
+         <a href="http://www.ruisitech.com/doc/report.pdf" target="_blank" style="text-decoration:underline"> 报表使用手册 </a> <img src="../resource/img/hot.gif">
          </li>
           
 	

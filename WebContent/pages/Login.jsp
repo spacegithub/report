@@ -106,7 +106,7 @@ function chkpw(ff){
   
   <div align="center" style="color:#666; font-size:14px; margin:20px;">
  <br/>
-<br/>   © 2013 <a href="http://wpa.qq.com/msgrd?v=3&uin=791440142&site=qq&menu=yes" target="_blank" style="color:#666; text-decoration:none">联系我们</a></div>
+<br/>   © 2013 <a href="http://wpa.qq.com/msgrd?v=3&uin=顺德科技&site=qq&menu=yes" target="_blank" style="color:#666; text-decoration:none">联系我们</a></div>
 </div>
 
 </body>
