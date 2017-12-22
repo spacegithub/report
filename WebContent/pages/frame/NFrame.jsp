@@ -152,8 +152,8 @@
     	 </div>
     	 </td>
     <td valign="middle" align="right" nowrap="nowrap">
-    	<div class="uinfo"><a href="http://www.ruisitech.com" target="_blank">公司网站</a> &nbsp; <a href="javascript:getuserinfo()">账号信息</a>  &nbsp; <a href="javascript:chgpasswd()">修改密码</a></div>
-        <div class="uinfo"><a href="http://www.ruisitech.com/concat.html" target="_blank">联系我们</a> &nbsp; <a href="javascript:getfankui()">用户反馈</a>  &nbsp; <a href="javascript:logout()">退出登录</a></div>
+    	<div class="uinfo"><a href="https://shop116082028.taobao.com" target="_blank">淘宝店铺</a> &nbsp; <a href="javascript:getuserinfo()">账号信息</a>  &nbsp; <a href="javascript:chgpasswd()">修改密码</a></div>
+        <div class="uinfo"><a href="https://shop116082028.taobao.com/concat.html" target="_blank">联系我们</a> &nbsp; <a href="javascript:getfankui()">用户反馈</a>  &nbsp; <a href="javascript:logout()">退出登录</a></div>
     </td>
   </tr>
 </table>
@@ -168,7 +168,7 @@
                 当前在线用户数：<span id="usercnt">X</span>人
             </div>
             <div style="float:right; margin: 3px 20px 0px 0px;">
-                <a href="http://www.ruisitech.com" target="_blank" style="text-decoration:underline">顺德科技</a> 版权所有
+                <a href="https://shop116082028.taobao.com" target="_blank" style="text-decoration:underline">顺德科技</a> 版权所有
             </div>
         </div>
     </div>

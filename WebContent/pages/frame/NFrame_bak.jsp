@@ -173,7 +173,7 @@
                 当前在线用户数：<span id="usercnt">X</span>人
             </div>
             <div style="float:right; margin: 3px 20px 0px 0px;">
-                <a href="http://www.ruisitech.com" target="_blank" style="text-decoration:underline">顺德科技</a> 技术支持
+                <a href="https://shop116082028.taobao.com" target="_blank" style="text-decoration:underline">顺德科技</a> 技术支持
             </div>
         </div>
     </div>

@@ -254,11 +254,11 @@
 </div>
 
 <div id="xinh-3" class="xinh-3">
-<a href="http://www.ruisitech.com" target="_blank">
+<a href="https://shop116082028.taobao.com" target="_blank">
 顺德科技
 </a>
 © 2014 
-<a href="http://www.ruisitech.com" target="_blank">www.ruisitech.com</a> <a href="../kefu.html" target="_blank" style="color:#666; text-decoration:underline">联系我们</a><br>
+<a href="https://shop116082028.taobao.com" target="_blank">www.ruisitech.com</a> <a href="../kefu.html" target="_blank" style="color:#666; text-decoration:underline">联系我们</a><br>
 
 </div>
 

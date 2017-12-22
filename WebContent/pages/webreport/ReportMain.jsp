@@ -110,7 +110,7 @@ function banBackSpace(e){
         	if(showtit){
         %>
        <div class="bi_tit">
-        <div align="right" style="padding:5px 10px 5px 5px; font-size:14px"><a target="_blank" href="http://www.rosetech.cn">公司网站</a> - <a target="_blank" href="http://www.rosetech.cn/product.html">解决方案</a> - <a target="_blank" href="http://bi.rosetech.cn/frame/Frame.action">演示系统</a> - <a target="_blank" href="http://www.rosetech.cn/concat.html">联系我们</a> - <a target="_blank" href="http://www.rosetech.cn/suggest.html">用户反馈</a> </div>
+        <div align="right" style="padding:5px 10px 5px 5px; font-size:14px"><a target="_blank" href="http://www.rosetech.cn">淘宝店铺</a> - <a target="_blank" href="http://www.rosetech.cn/product.html">解决方案</a> - <a target="_blank" href="http://bi.rosetech.cn/frame/Frame.action">演示系统</a> - <a target="_blank" href="http://www.rosetech.cn/concat.html">联系我们</a> - <a target="_blank" href="http://www.rosetech.cn/suggest.html">用户反馈</a> </div>
         </div>
         <%
 			}else{

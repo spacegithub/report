@@ -154,7 +154,7 @@
     	 </td>
     <td valign="top" align="right" nowrap="nowrap">
      <div class="headline">
-    	<div class="uinfo"> <a href="http://www.ruisitech.com" target="_blank">公司网站</a> |  <a href="javascript:chgpasswd()">修改密码</a> | <a href="javascript:logout()">退出登录</a></div>
+    	<div class="uinfo"> <a href="https://shop116082028.taobao.com" target="_blank">淘宝店铺</a> |  <a href="javascript:chgpasswd()">修改密码</a> | <a href="javascript:logout()">退出登录</a></div>
         </div>
     </td>
   </tr>
@@ -168,7 +168,7 @@
                 当前在线用户数：<span id="usercnt">X</span>人
             </div>
             <div style="float:right; margin: 3px 20px 0px 0px;">
-                <a href="http://www.ruisitech.com" target="_blank" style="text-decoration:underline">顺德科技</a> 版权所有
+                <a href="https://shop116082028.taobao.com" target="_blank" style="text-decoration:underline">顺德科技</a> 版权所有
             </div>
         </div>
     </div>
